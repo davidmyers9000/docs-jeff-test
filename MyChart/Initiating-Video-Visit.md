@@ -3,6 +3,8 @@
 ## Step 1: Open GooglePlay or Apple App Store
 Find the mobile app store on your phone, you can go into the app menu and search for it. Depending whether you are on an Apple device or an Android, the icons below are the locations to search for the app.
 
+![app store](Starting Visit as Patient on MyChart (App both devices).jpg)
+
 ## Step 2: Search for the App
 
 **Android:** Open the play store go to the search bar at the top that says “GooglePlay”, search for “MyChart EPIC”
