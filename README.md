@@ -1,4 +1,4 @@
 # README
 
 ## Links
-[link](Initiating-Video-Visit.md)
+[link](MyChart/Initiating-Video-Visit.md)
