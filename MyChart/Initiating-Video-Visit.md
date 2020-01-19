@@ -17,7 +17,7 @@ Find the mobile app store on your phone, you can go into the app menu and search
 
 **Step 3:** Chose the logo of a red folder with a white heart. Click “Get” (Apple) or “Install” (Android). Once it’s done , the “install” it will now say open, click it.
 
-![](mychartinstall.jpg)
+![](installmychart.jpg)
 
 **Step 4:** When you open the app, make sure to locate yourself to Pennsylvania. The list of providers will include “Jefferson Health”. Tap twice to confirm.
 
